@@ -777,7 +777,7 @@ main {
 }
 
 .clients-item {
-  min-width: 50%;
+  min-width: 25%;
   scroll-snap-align: start;
 }
 
@@ -1851,7 +1851,7 @@ textarea.form-input::-webkit-resizer {
   /* clients */
 
   .clients-item {
-    min-width: calc(20% - 38px);
+    min-width: calc(5%);
   }
 
   /**
